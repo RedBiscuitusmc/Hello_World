@@ -1,4 +1,4 @@
 #Jacob Merlin
 #Bootcamp 100 day course
-#Pushing Hello World script to Github
-print("Hello World")
+#What is your name Fuction Input
+print("Hello " + input("What is your name?") + "!" )
