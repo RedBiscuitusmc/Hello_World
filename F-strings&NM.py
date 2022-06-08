@@ -27,4 +27,5 @@ month_Years = months * years
 total_month = month_Years - total_month_Age
 
 #fstring
-print(f" You have {total_days} days, {total_weeks} weeks, {total_month} months left.")
+message =  f" You have {total_days} days, {total_weeks} weeks, {total_month} months left."
+print (message)
